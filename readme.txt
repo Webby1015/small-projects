@@ -1,1 +1,1 @@
-You need to install pygame via pip for it to work.
+You need to install pygame via pip for these to work.
